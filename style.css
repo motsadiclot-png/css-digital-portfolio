@@ -176,5 +176,32 @@ footer {
     text-decoration: underline;
 }
 
+/* Industrial Attachment Application Letter */
+
+.letter {
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    line-height: 1.8;
+    text-align: justify;
+}
+
+.letter h3 {
+    color: #16324f;
+}
+
+.letter p {
+    margin-bottom: 18px;
+}
+
+@media (max-width: 600px) {
+    .letter {
+        padding: 18px;
+        text-align: left;
+    }
+}
+
+
 
 
