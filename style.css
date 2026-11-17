@@ -201,6 +201,27 @@ footer {
         text-align: left;
     }
 }
+/* Professional Email Template */
+
+.email-template {
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    line-height: 1.8;
+}
+
+.email-template hr {
+    border: none;
+    border-top: 1px solid #ddd;
+    margin: 20px 0;
+}
+
+@media (max-width: 600px) {
+    .email-template {
+        padding: 18px;
+    }
+}
 
 
 
