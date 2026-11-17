@@ -95,3 +95,23 @@ footer {
         padding: 22px;
     }
 }
+
+/* Homepage welcome banner */
+.welcome {
+    background-color: #16324f;
+    color: white;
+    text-align: center;
+    padding: 50px 20px;
+    border-radius: 10px;
+    margin-bottom: 25px;
+}
+
+.welcome h1 {
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+.welcome p {
+    font-size: 17px;
+}
+
