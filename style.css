@@ -147,4 +147,34 @@ footer {
     }
 }
 
+/* Skills and Projects */
+#skills ul {
+    line-height: 1.9;
+    padding-left: 25px;
+}
+
+.project-card {
+    background-color: white;
+    padding: 25px;
+    border-radius: 10px;
+    margin-top: 20px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    border-left: 5px solid #16324f;
+}
+
+.project-card h3 {
+    color: #16324f;
+}
+
+.project-card a {
+    color: #2563eb;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.project-card a:hover {
+    text-decoration: underline;
+}
+
+
 
